@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
+      "title": "About Matt",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-03-05T15:01:59-06:00"
+      "contents": "\nI am from Texas and I work at the LBJ School.\n\n\n\n",
+      "last_modified": "2021-03-05T15:08:57-06:00"
     },
     {
       "path": "index.html",
       "title": "Matt Worthington's Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-03-05T15:01:59-06:00"
+      "contents": "\nThis is a website I am using to document X.\n\n\n\n",
+      "last_modified": "2021-03-05T15:08:57-06:00"
     }
   ],
   "collections": []
