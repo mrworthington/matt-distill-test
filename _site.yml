@@ -11,4 +11,6 @@ navbar:
       href: about.html
     - text: "Cale's Website"
       href: https://dcaler.github.io/CaleDistillTest/
+    - text: "Norrah's Website"
+      href: https://noorahalhasan.com
 output: distill::distill_article
